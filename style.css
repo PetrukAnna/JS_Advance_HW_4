@@ -1,0 +1,42 @@
+.container {
+	height: 341px;
+	width: 247px;
+	background-color: gray;
+	margin: 50px auto;
+}
+
+.input {
+	height: 50px;
+	width: 222px;
+	background: pink;
+	margin: 0px auto;
+	position: relative;
+	top: 10px;
+}
+
+.text {
+	height: 25px;
+	width: 220px;
+	position: relative;
+	border: none;
+	outline: none;
+	text-align: right;
+	padding-right: 2px;
+	font-size: 22px;
+}
+
+.buttons {
+	height: 259px;
+	width: 222px;
+	margin: 20px auto;
+	background-color: pink;
+}
+
+.buttons>input {
+	height: 40px;
+	width: 40px;
+	position: relative;
+	display: inline-block;
+	margin: 10px 0px 0px 10px;
+	font-size: 18px;
+}
